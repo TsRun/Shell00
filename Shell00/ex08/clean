@@ -1,1 +1,0 @@
-find -type d -name *~ -print -delete -or -type d -name #*# -print -delete 
